@@ -50,4 +50,4 @@ Allow: /
 User-agent: MistralAI-User
 Allow: /
 
-Sitemap: https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/sitemap.xml
+Sitemap: https://example.com/sitemap.xml

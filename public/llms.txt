@@ -7,37 +7,37 @@
 ## Pages
 
 ### בית
-https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app
+https://example.com
 אקדמיית עילית לכדורגל בהנהלת דור מלכה, מאמן בעל רישיון UEFA C. אימונים טקטיים, פיתוח מהירות חשיבה ומשמעת אירופאית לשחקנים בגילאי 12–18. הצטרפו לשינוי.
 
 ### אודות
-https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/about
+https://example.com/about
 הכירו את דור מלכה, מאמן UEFA C עם ניסיון בליגה הלאומית ובנבחרות הצעירות. גלו את הפילוסופיה שמאחורי אקדמיית העילית שמעצבת שחקנים חדים, חזקים וממושמעים.
 
 ### הדרכה
-https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/training
+https://example.com/training
 תוכניות אימון כדורגל מותאמות אישית בדגש על קבלת החלטות, טכניקה מתקדמת וכושר גופני ברמה אירופאית. הפיכת כישרון גולמי לשחקן מנצח מתחילה כאן.
 
 ### צור קשר
-https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/contact
+https://example.com/contact
 מוכנים להפוך לשחקנים שמשנים משחק? צרו קשר עם Unlimited - אקדמיית העילית לכדורגל בהנהלת דור מלכה. השאירו פרטים ונתאים לכם תוכנית אימון מנצחת.
 
 ### תודה רבה | Unlimited - Elite Soccer Academy
-https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך. ההודעה התקבלה בהצלחה ונחזור אליך בהקדם. Unlimited - אקדמיית אימוני כדורגל מקצועיים.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -47,8 +47,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/contact
-- Endpoint: https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/api/email/contact-form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ Sports Academy / Football Training
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/sitemap.xml
-- Robots: https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://unlimited-elite-soccer-academy-by-dor-malka-9d04ae3d.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
